@@ -1,4 +1,4 @@
-class hamming
+class Hamming
   def hammming s1, s2
     s1 = (s1.to_s.upcase).chars
     s2 = (s2.to_s.upcase).chars
